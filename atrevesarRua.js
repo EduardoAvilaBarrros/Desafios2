@@ -28,7 +28,7 @@ if (resposta == 1) {
     var resposta4 = prompt("O sinal enta aberto para carros?" +
             "\nResposta:");
 
-    if (resposta2 == s && resposta3 == n && resposta4 == s){
+    if (resposta2 == 's' && resposta3 == 'n' && resposta4 == 's'){
         alert("Voce pode dirigir parabens ✔✨");
     } else {
         alert("Voce esta errado, se mate logo, amem!");
